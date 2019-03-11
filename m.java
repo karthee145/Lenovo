@@ -1,5 +1,12 @@
-class First {
-  public static void main(String[] arguments) {
-    System.out.println("Wellcome to Online Class session For Devops");
+class Condition {
+  public static void main(String[] args) {
+    boolean learning = true;
+ 
+    if (learning) {
+      System.out.println("Java programmer");
+    }
+    else {
+      System.out.println("What are you doing here?");
+    }
   }
 }
